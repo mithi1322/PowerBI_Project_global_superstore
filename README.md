@@ -1,7 +1,6 @@
-![Power BI Dashboard_page-0001](https://github.com/mithi1322/PowerBI-Project/assets/127670239/86babd22-243e-4bf0-a00d-28ac8e771306)
-
 # Microsoft PowerBI Project
 
+![Power BI Dashboard_page-0001](https://github.com/mithi1322/PowerBI-Project/assets/127670239/86babd22-243e-4bf0-a00d-28ac8e771306)
 
 ## Create a Amazon Superstore Report
 
