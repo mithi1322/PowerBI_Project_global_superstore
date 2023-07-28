@@ -1,5 +1,7 @@
 # Microsoft PowerBI Project
 
+![Uploading Power BI Dashboard_page-0001.jpg…]()
+
 ## Create a Amazon Superstore Report
 
 ### DataSet Name: Global Superstore
